@@ -1,0 +1,2 @@
+# VueDynamicRoute
+Created with CodeSandbox
